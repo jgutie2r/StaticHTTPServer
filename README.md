@@ -15,9 +15,13 @@ path that stores that user/password information.
 This is the config.ini file included in the project:
 
 PATH=/var/web/
+
 NUM_THREADS=500
+
 SERVER_PORT=8080
+
 AUTH_PREFIX=private
+
 CREDENTIALS=.creds
 
 
