@@ -400,6 +400,7 @@ class UtilsHTTP {
 			HashMap<String, String> responseCabs, String recurso) {
 		String extension = recurso.substring(recurso.lastIndexOf('.') + 1,
 				recurso.length());
+		
 		// Some MIME types (this is just a sample)
 		if (extension.equals("html"))
 			responseCabs.put("Content-Type", "text/html");

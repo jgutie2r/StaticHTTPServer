@@ -14,7 +14,7 @@ path that stores that user/password information.
 
 This is the config.ini file included in the project:
 
-PATH=/var/web/
+PATH=/var/web/resources
 
 NUM_THREADS=500
 
@@ -30,7 +30,7 @@ This means that:
 1) The resources are located in the path /var/web
    
    If the URI is http://server:8080/path/resource
-   then there should exists /var/web/path/resource
+   then there should exists /var/web/resources/path/resource
    in order to have a 200 OK response with the resource
    
 2) The server can deal with 500 concurrent requests.
@@ -52,7 +52,7 @@ This means that:
    So in the previous URL example it is assumed
    that there exists the following file:
    
-   /var/web/privateSite1/.creds
+   /var/web/resources/privateSite1/.creds
    
    Each path can have its own .creds file. 
    
