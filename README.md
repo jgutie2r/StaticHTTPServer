@@ -1,7 +1,14 @@
 StaticHTTPServer
 ================
 
-This is a lightweight HTTP server for teaching purposes.
+This is a lightweight HTTP server that was created for teaching 
+purposes.
+
+You can clone the project with the following shell command:
+
+git clone https://github.com/jgutie2r/StaticHTTPServer.git
+
+or you can do it from Eclipse if you have a git plugin installed.
 
 This HTTP server responds to GET requests asking for a particular
 resource.
@@ -51,7 +58,8 @@ This means that:
       
 ---------------------------------------------
 
-This is part of a teaching subject in Web Applications Programming.
+This is part of a teaching subject in Server Side Web Applications 
+Programming.
 
 This code serves as starting point to add more features as:
 
