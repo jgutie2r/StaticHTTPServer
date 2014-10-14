@@ -48,10 +48,8 @@ This means that:
    
    Each path can have its own .creds file storing
    different user/password.
-   
-   
+      
 ---------------------------------------------
-
 
 This is part of a teaching subject in Web Applications Programming.
 
@@ -63,7 +61,6 @@ This code serves as starting point to add more features as:
 
 So it is posible to have basic static HTTP server + CGI + Servlet like
 behaviour in a very small jar file (around 20 kb).
-
 
 ----------------------------------------------
 
