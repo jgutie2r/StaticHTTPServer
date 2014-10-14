@@ -72,6 +72,12 @@ So it is posible to have basic static HTTP server + CGI + Servlet like
 behaviour in a very small jar file (around 20 kb).
 
 
+----------------------------------------------
+
+Juan Gutierrez Aguado (PhD)
+Departamento de Informatica - Computer Science Department)
+Universidad de Valencia  - Valencia University
+Spain
 
 
 
