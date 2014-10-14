@@ -74,9 +74,9 @@ behaviour in a very small jar file (around 20 kb).
 
 ----------------------------------------------
 
-Juan Gutierrez Aguado (PhD)
-Departamento de Informatica - Computer Science Department)
-Universidad de Valencia  - Valencia University
+Juan Gutierrez Aguado (PhD) <br />
+Departamento de Informatica - Computer Science Department) <br />
+Universidad de Valencia  - Valencia University <br />
 Spain
 
 
