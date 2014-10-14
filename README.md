@@ -28,6 +28,7 @@ CREDENTIALS=.creds
 This means that:
 
 1) The resources are located in the path /var/web
+   
    If the URI is http://server:8080/path/resource
    then there should exists /var/web/path/resource
    in order to have a 200 OK response with the resource
