@@ -61,7 +61,7 @@ This means that:
 This is part of a teaching subject in Server Side Web Applications 
 Programming.
 
-This code serves as starting point to add more features as:
+This code serves as starting point to add more features such as:
 
 - CGI like behaviour 
 
