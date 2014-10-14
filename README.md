@@ -52,8 +52,7 @@ This means that:
    Each path can have its own .creds file. 
    
    
-   
-
+---------------------------------------------
 
 
 This is part of a teaching subject in Web Applications Programming.
